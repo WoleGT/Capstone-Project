@@ -19,7 +19,7 @@ This project analyzes sales data to uncover trends, performance drivers, and act
 - Sales peak consistently in Q1
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ## 📁 Dataset
 The dataset contains:
